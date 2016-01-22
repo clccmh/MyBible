@@ -1,2 +1,3 @@
-# WikiTest
-Just a Repo for me to play with the github wiki pages
+# MyBible
+##A work in progress containing references of things I need to know
+*Go look at the wiki*
